@@ -24,7 +24,7 @@ namespace Calculator
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+			MessageBox.Show("Hello!");
         }
 
         private void button15_Click(object sender, EventArgs e)
